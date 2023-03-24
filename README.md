@@ -7,11 +7,11 @@ Este tutorial tiene como objetivo proporcionar una introducción básica a las f
 
 ## Tabla de contenido
 
--   [Introducción](https://chat.openai.com/chat/94fae4b3-129e-437e-9de0-a5b1e3e4010e#introducci%C3%B3n)
--   [Creando funciones flecha](https://chat.openai.com/chat/94fae4b3-129e-437e-9de0-a5b1e3e4010e#creando-funciones-flecha)
--   [Utilizando funciones flecha](https://chat.openai.com/chat/94fae4b3-129e-437e-9de0-a5b1e3e4010e#utilizando-funciones-flecha)
--   [Ventajas y desventajas](https://chat.openai.com/chat/94fae4b3-129e-437e-9de0-a5b1e3e4010e#ventajas-y-desventajas)
--   [Conclusión](https://chat.openai.com/chat/94fae4b3-129e-437e-9de0-a5b1e3e4010e#conclusi%C3%B3n)
+-   [Introducción]
+-   [Creando funciones flecha]
+-   [Utilizando funciones flecha]
+-   [Ventajas y desventajas]
+-   [Conclusión]
 
 ## Introducción
 
