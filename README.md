@@ -1,3 +1,4 @@
+
 ![enter image description here](https://raw.githubusercontent.com/sergiecode/arrowFunction-tutorial/master/arrowFunction.jpg)
 
 # Tutorial de funciones flecha en JavaScript
@@ -20,11 +21,9 @@ Las funciones flecha son una característica introducida en ECMAScript 6 que per
 
 Para crear una función flecha en JavaScript, utilizas la siguiente sintaxis:
 
-javascriptCopy code
-
-`const nombreDeFuncion = (argumentos) => {
-  // Código a ejecutar
-}` 
+    `const nombreDeFuncion = (argumentos) => {
+      // Código a ejecutar
+    }` 
 
 En este ejemplo, `nombreDeFuncion` es el nombre de la función que estás creando, `argumentos` es la lista de argumentos que la función acepta y `// Código a ejecutar` es el bloque de código que se ejecuta cuando llamas a la función.
 
@@ -38,13 +37,11 @@ javascriptCopy code
 
 También puedes asignar una función flecha a una variable y utilizar esa variable como si fuera una función. Por ejemplo:
 
-javascriptCopy code
-
-`const nombreDeVariable = (argumentos) => {
-  // Código a ejecutar
-}
-
-nombreDeVariable(argumentos)` 
+    `const nombreDeVariable = (argumentos) => {
+      // Código a ejecutar
+    }
+    
+    nombreDeVariable(argumentos)` 
 
 ## Ventajas y desventajas
 
