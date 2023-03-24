@@ -7,11 +7,11 @@ Este tutorial tiene como objetivo proporcionar una introducción básica a las f
 
 ## Tabla de contenido
 
--   [Introducción]
--   [Creando funciones flecha]
--   [Utilizando funciones flecha]
--   [Ventajas y desventajas]
--   [Conclusión]
+-   Introducción
+-   Creando funciones flecha
+-   Utilizando funciones flecha
+-   Ventajas y desventajas
+-   Conclusión
 
 ## Introducción
 
