@@ -1,5 +1,5 @@
 
-![enter image description here](https://raw.githubusercontent.com/sergiecode/arrowFunction-tutorial/master/arrowFunction.jpg)
+![Uso de funciones de flecha en Javascript](https://raw.githubusercontent.com/sergiecode/arrowFunction-tutorial/master/arrowFunction.jpg)
 
 # Tutorial de funciones flecha en JavaScript
 
